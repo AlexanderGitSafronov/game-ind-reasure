@@ -1,0 +1,30 @@
+/* body {
+}
+.heading h1 {
+    background-color: grey;
+    display: inline-block;
+    border: 2px solid red;
+    cur
+}
+.pos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.tab {
+  background-color: grey;
+  text-align: center;
+  display: inline-block;
+
+  padding: 10px 20px;
+}
+.active {
+  background-color: blueviolet;
+}
+.text {
+  background-color: #fff;
+  width: 500px;
+  padding: 20px;
+} */
